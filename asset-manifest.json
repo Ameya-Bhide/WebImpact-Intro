@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebImpact-Intro/static/css/main.2d3e0b67.css",
+    "main.js": "/WebImpact-Intro/static/js/main.018c85fd.js",
+    "static/js/453.ed3810f9.chunk.js": "/WebImpact-Intro/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/WebImpact-Intro/index.html",
+    "main.2d3e0b67.css.map": "/WebImpact-Intro/static/css/main.2d3e0b67.css.map",
+    "main.018c85fd.js.map": "/WebImpact-Intro/static/js/main.018c85fd.js.map",
+    "453.ed3810f9.chunk.js.map": "/WebImpact-Intro/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d3e0b67.css",
+    "static/js/main.018c85fd.js"
+  ]
+}
